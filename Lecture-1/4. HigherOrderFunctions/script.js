@@ -5,6 +5,7 @@ function playMovies(m){
     // m(); // m will always be a function
     let screenTime = 1000;
 
+
     if(screenTime<1500){
         m();
     }
